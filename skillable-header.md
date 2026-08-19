@@ -15,7 +15,7 @@
 <center>
 !IMAGE[SkillableLSIsmall.png](https://github.com/bpp-sot/GeneralResources/raw/refs/heads/main/BPP%20Logo_RGB_72ppi.png){300}
 
-@lab.Title
+
 
 </center>
 <br> 
